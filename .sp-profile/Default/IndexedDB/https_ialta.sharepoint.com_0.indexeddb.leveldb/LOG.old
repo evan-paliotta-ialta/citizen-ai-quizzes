@@ -1,0 +1,13 @@
+2026/04/09-10:20:55.324 ad0c64 Reusing MANIFEST /Users/evanpaliotta/Desktop/iAltA Test/Citizen AI Engineer/.sp-profile/Default/IndexedDB/https_ialta.sharepoint.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/04/09-10:20:55.325 ad0c64 Recovering log #7
+2026/04/09-10:20:55.325 ad0c64 Reusing old log /Users/evanpaliotta/Desktop/iAltA Test/Citizen AI Engineer/.sp-profile/Default/IndexedDB/https_ialta.sharepoint.com_0.indexeddb.leveldb/000007.log 
+2026/04/09-10:20:55.341 ad0c64 Compacting 1@1 + 1@2 files
+2026/04/09-10:20:55.355 ad0c64 Generated table #10@1: 3177 keys, 1704644 bytes
+2026/04/09-10:20:55.363 ad0c64 Compacted 1@1 + 1@2 files => 1704644 bytes
+2026/04/09-10:20:55.365 ad0c64 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/04/09-10:20:57.342 ad0c66 Level-0 table #12: started
+2026/04/09-10:20:57.343 ad0c66 Level-0 table #12: 24741 bytes OK
+2026/04/09-10:20:57.345 ad0c66 Delete type=0 #7
+2026/04/09-10:20:57.345 ad0c66 Delete type=2 #5
+2026/04/09-10:20:57.345 ad0c66 Delete type=2 #8
+2026/04/09-10:20:57.346 ad0c63 Manual compaction at level-0 from '\x00\x0f\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x10\x00\x00\x00' @ 0 : 0; will stop at (end)

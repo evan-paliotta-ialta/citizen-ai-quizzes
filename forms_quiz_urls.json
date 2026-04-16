@@ -1,0 +1,82 @@
+[
+  {
+    "moduleNum": 1,
+    "title": "Quiz — Module 1: What Claude Is (and Isn't)",
+    "error": "Choice button not found after 20s"
+  },
+  {
+    "moduleNum": 2,
+    "title": "Quiz — Module 2: How the Model Was Built",
+    "error": "Choice button not found after 20s"
+  },
+  {
+    "moduleNum": 3,
+    "title": "Quiz — Module 3: Tokens — The Currency of AI",
+    "error": "Choice button not found after 20s"
+  },
+  {
+    "moduleNum": 4,
+    "title": "Quiz — Module 4: The Context Window",
+    "error": "page.evaluate: Target page, context or browser has been closed"
+  },
+  {
+    "moduleNum": 5,
+    "title": "Quiz — Module 5: Why Specificity is Everything",
+    "error": "page.waitForFunction: Target page, context or browser has been closed"
+  },
+  {
+    "moduleNum": 6,
+    "title": "Quiz — Module 6: Anatomy of a Good Prompt",
+    "error": "page.waitForFunction: Target page, context or browser has been closed"
+  },
+  {
+    "moduleNum": 7,
+    "title": "Quiz — Module 7: Iteration, Examples, and Getting to Great",
+    "error": "page.waitForFunction: Target page, context or browser has been closed"
+  },
+  {
+    "moduleNum": 8,
+    "title": "Quiz — Module 8: Tips, Tricks, and Power User Habits",
+    "error": "page.waitForFunction: Target page, context or browser has been closed"
+  },
+  {
+    "moduleNum": 9,
+    "title": "Quiz — Module 9: The Operating Framework",
+    "error": "page.waitForFunction: Target page, context or browser has been closed"
+  },
+  {
+    "moduleNum": 10,
+    "title": "Quiz — Module 10: Claude Desktop Projects",
+    "error": "page.waitForFunction: Target page, context or browser has been closed"
+  },
+  {
+    "moduleNum": 11,
+    "title": "Quiz — Module 11: Documents, Images, and Multimodal Input",
+    "error": "page.waitForFunction: Target page, context or browser has been closed"
+  },
+  {
+    "moduleNum": 12,
+    "title": "Quiz — Module 12: Claude for Your Team",
+    "error": "page.waitForFunction: Target page, context or browser has been closed"
+  },
+  {
+    "moduleNum": 13,
+    "title": "Quiz — Module 13: Safety and Responsible Use",
+    "error": "page.waitForFunction: Target page, context or browser has been closed"
+  },
+  {
+    "moduleNum": 14,
+    "title": "Quiz — Module 14: MCP, Agents, and RAG",
+    "error": "page.waitForFunction: Target page, context or browser has been closed"
+  },
+  {
+    "moduleNum": 15,
+    "title": "Quiz — Module 15: GitHub — The Collaboration Layer",
+    "error": "page.waitForFunction: Target page, context or browser has been closed"
+  },
+  {
+    "moduleNum": 16,
+    "title": "Quiz — Module 16: Databases and Data Storage",
+    "error": "page.waitForFunction: Target page, context or browser has been closed"
+  }
+]

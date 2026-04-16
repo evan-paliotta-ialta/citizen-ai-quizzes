@@ -1,0 +1,15 @@
+2026/04/09-12:13:50.782 af2417 Reusing MANIFEST /Users/evanpaliotta/Desktop/iAltA Test/Citizen AI Engineer/.sp-profile/Default/Session Storage/MANIFEST-000001
+2026/04/09-12:13:50.785 af2417 Recovering log #55
+2026/04/09-12:13:50.788 af2417 Reusing old log /Users/evanpaliotta/Desktop/iAltA Test/Citizen AI Engineer/.sp-profile/Default/Session Storage/000055.log 
+2026/04/09-12:14:03.655 af241a Level-0 table #58: started
+2026/04/09-12:14:03.659 af241a Level-0 table #58: 53548 bytes OK
+2026/04/09-12:14:03.665 af241a Delete type=0 #55
+2026/04/09-12:14:03.666 af241a Compacting 4@0 + 1@1 files
+2026/04/09-12:14:03.673 af241a Generated table #59@0: 150 keys, 264255 bytes
+2026/04/09-12:14:03.674 af241a Compacted 4@0 + 1@1 files => 264255 bytes
+2026/04/09-12:14:03.674 af241a compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/04/09-12:14:03.675 af241a Delete type=2 #48
+2026/04/09-12:14:03.675 af241a Delete type=2 #58
+2026/04/09-12:14:03.675 af241a Delete type=2 #55
+2026/04/09-12:14:03.675 af241a Delete type=2 #51
+2026/04/09-12:14:03.675 af241a Delete type=2 #53

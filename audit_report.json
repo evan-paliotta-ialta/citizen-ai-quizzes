@@ -1,0 +1,675 @@
+{
+  "auditDate": "2026-04-09T16:40:24.370Z",
+  "siteUrl": "https://ialta.sharepoint.com/sites/CitizenAI",
+  "summary": {
+    "ok": 35,
+    "warnings": 0,
+    "issues": 0,
+    "missing": 0
+  },
+  "pages": [
+    {
+      "title": "Module 0: Why We're Doing This",
+      "type": "module",
+      "num": 0,
+      "status": "OK",
+      "issues": [],
+      "warnings": [],
+      "info": {
+        "pageId": 39,
+        "modified": "2026-04-09T15:39:08Z",
+        "canvasLength": 9008,
+        "promotedState": 0,
+        "textLength": 5582,
+        "linkCount": 1,
+        "hasNavigation": true
+      }
+    },
+    {
+      "title": "Module 1: What Claude Is (and Isn't)",
+      "type": "module",
+      "num": 1,
+      "status": "OK",
+      "issues": [],
+      "warnings": [],
+      "info": {
+        "pageId": 33,
+        "modified": "2026-04-09T16:27:48Z",
+        "canvasLength": 12484,
+        "promotedState": 0,
+        "textLength": 6547,
+        "linkCount": 15,
+        "hasNavigation": true
+      }
+    },
+    {
+      "title": "Module 2: How the Model Was Built",
+      "type": "module",
+      "num": 2,
+      "status": "OK",
+      "issues": [],
+      "warnings": [],
+      "info": {
+        "pageId": 2,
+        "modified": "2026-04-09T16:26:26Z",
+        "canvasLength": 13619,
+        "promotedState": 0,
+        "textLength": 7542,
+        "linkCount": 15,
+        "hasNavigation": true
+      }
+    },
+    {
+      "title": "Module 3: Tokens — The Currency of AI",
+      "type": "module",
+      "num": 3,
+      "status": "OK",
+      "issues": [],
+      "warnings": [],
+      "info": {
+        "pageId": 3,
+        "modified": "2026-04-09T16:26:29Z",
+        "canvasLength": 11400,
+        "promotedState": 0,
+        "textLength": 5606,
+        "linkCount": 15,
+        "hasNavigation": true
+      }
+    },
+    {
+      "title": "Module 4: The Context Window",
+      "type": "module",
+      "num": 4,
+      "status": "OK",
+      "issues": [],
+      "warnings": [],
+      "info": {
+        "pageId": 4,
+        "modified": "2026-04-09T16:26:32Z",
+        "canvasLength": 11422,
+        "promotedState": 0,
+        "textLength": 5627,
+        "linkCount": 15,
+        "hasNavigation": true
+      }
+    },
+    {
+      "title": "Module 5: Why Specificity is Everything",
+      "type": "module",
+      "num": 5,
+      "status": "OK",
+      "issues": [],
+      "warnings": [],
+      "info": {
+        "pageId": 5,
+        "modified": "2026-04-09T16:26:34Z",
+        "canvasLength": 12098,
+        "promotedState": 0,
+        "textLength": 6147,
+        "linkCount": 15,
+        "hasNavigation": true
+      }
+    },
+    {
+      "title": "Module 6: Anatomy of a Good Prompt",
+      "type": "module",
+      "num": 6,
+      "status": "OK",
+      "issues": [],
+      "warnings": [],
+      "info": {
+        "pageId": 6,
+        "modified": "2026-04-09T16:26:37Z",
+        "canvasLength": 14196,
+        "promotedState": 0,
+        "textLength": 7821,
+        "linkCount": 15,
+        "hasNavigation": true
+      }
+    },
+    {
+      "title": "Module 7: Iteration, Examples, and Getting to Great",
+      "type": "module",
+      "num": 7,
+      "status": "OK",
+      "issues": [],
+      "warnings": [],
+      "info": {
+        "pageId": 7,
+        "modified": "2026-04-09T16:26:40Z",
+        "canvasLength": 13314,
+        "promotedState": 0,
+        "textLength": 6963,
+        "linkCount": 15,
+        "hasNavigation": true
+      }
+    },
+    {
+      "title": "Module 8: Tips, Tricks, and Power User Habits",
+      "type": "module",
+      "num": 8,
+      "status": "OK",
+      "issues": [],
+      "warnings": [],
+      "info": {
+        "pageId": 8,
+        "modified": "2026-04-09T16:26:43Z",
+        "canvasLength": 13739,
+        "promotedState": 0,
+        "textLength": 7604,
+        "linkCount": 15,
+        "hasNavigation": true
+      }
+    },
+    {
+      "title": "Module 9: The Operating Framework",
+      "type": "module",
+      "num": 9,
+      "status": "OK",
+      "issues": [],
+      "warnings": [],
+      "info": {
+        "pageId": 9,
+        "modified": "2026-04-09T16:36:45Z",
+        "canvasLength": 17760,
+        "promotedState": 0,
+        "textLength": 9640,
+        "linkCount": 15,
+        "hasNavigation": true
+      }
+    },
+    {
+      "title": "Module 10: Claude Desktop Projects",
+      "type": "module",
+      "num": 10,
+      "status": "OK",
+      "issues": [],
+      "warnings": [],
+      "info": {
+        "pageId": 10,
+        "modified": "2026-04-09T16:26:49Z",
+        "canvasLength": 13997,
+        "promotedState": 0,
+        "textLength": 7740,
+        "linkCount": 15,
+        "hasNavigation": true
+      }
+    },
+    {
+      "title": "Module 11: Documents, Images, and Multimodal Input",
+      "type": "module",
+      "num": 11,
+      "status": "OK",
+      "issues": [],
+      "warnings": [],
+      "info": {
+        "pageId": 11,
+        "modified": "2026-04-09T16:26:52Z",
+        "canvasLength": 11201,
+        "promotedState": 0,
+        "textLength": 5981,
+        "linkCount": 12,
+        "hasNavigation": true
+      }
+    },
+    {
+      "title": "Module 12: Claude for Your Team",
+      "type": "module",
+      "num": 12,
+      "status": "OK",
+      "issues": [],
+      "warnings": [],
+      "info": {
+        "pageId": 12,
+        "modified": "2026-04-09T16:26:54Z",
+        "canvasLength": 15644,
+        "promotedState": 0,
+        "textLength": 10201,
+        "linkCount": 12,
+        "hasNavigation": true
+      }
+    },
+    {
+      "title": "Module 13: Safety and Responsible Use",
+      "type": "module",
+      "num": 13,
+      "status": "OK",
+      "issues": [],
+      "warnings": [],
+      "info": {
+        "pageId": 13,
+        "modified": "2026-04-09T16:40:13Z",
+        "canvasLength": 17370,
+        "promotedState": 0,
+        "textLength": 8840,
+        "linkCount": 16,
+        "hasNavigation": true
+      }
+    },
+    {
+      "title": "Module 14: MCP, Agents, and RAG",
+      "type": "module",
+      "num": 14,
+      "status": "OK",
+      "issues": [],
+      "warnings": [],
+      "info": {
+        "pageId": 14,
+        "modified": "2026-04-09T16:27:00Z",
+        "canvasLength": 13598,
+        "promotedState": 0,
+        "textLength": 8314,
+        "linkCount": 12,
+        "hasNavigation": true
+      }
+    },
+    {
+      "title": "Module 15: GitHub — The Collaboration Layer",
+      "type": "module",
+      "num": 15,
+      "status": "OK",
+      "issues": [],
+      "warnings": [],
+      "info": {
+        "pageId": 15,
+        "modified": "2026-04-09T16:27:03Z",
+        "canvasLength": 19545,
+        "promotedState": 0,
+        "textLength": 12616,
+        "linkCount": 13,
+        "hasNavigation": true
+      }
+    },
+    {
+      "title": "Module 16: Databases and Data Storage",
+      "type": "module",
+      "num": 16,
+      "status": "OK",
+      "issues": [],
+      "warnings": [],
+      "info": {
+        "pageId": 16,
+        "modified": "2026-04-09T16:27:05Z",
+        "canvasLength": 12018,
+        "promotedState": 0,
+        "textLength": 8213,
+        "linkCount": 8,
+        "hasNavigation": true
+      }
+    },
+    {
+      "title": "Quiz — Module 1: What Claude Is (and Isn't)",
+      "type": "quiz",
+      "num": 1,
+      "status": "OK",
+      "issues": [],
+      "warnings": [],
+      "info": {
+        "pageId": 34,
+        "modified": "2026-04-09T16:27:51Z",
+        "canvasLength": 5667,
+        "promotedState": 0,
+        "textLength": 1954,
+        "linkCount": 8,
+        "formsLinks": [],
+        "hasFormsEmbed": false,
+        "hasListForm": true,
+        "quizLinked": true,
+        "submissionType": "SharePoint List"
+      }
+    },
+    {
+      "title": "Quiz — Module 2: How the Model Was Built",
+      "type": "quiz",
+      "num": 2,
+      "status": "OK",
+      "issues": [],
+      "warnings": [],
+      "info": {
+        "pageId": 17,
+        "modified": "2026-04-09T16:27:08Z",
+        "canvasLength": 5854,
+        "promotedState": 0,
+        "textLength": 2131,
+        "linkCount": 8,
+        "formsLinks": [],
+        "hasFormsEmbed": false,
+        "hasListForm": true,
+        "quizLinked": true,
+        "submissionType": "SharePoint List"
+      }
+    },
+    {
+      "title": "Quiz — Module 3: Tokens — The Currency of AI",
+      "type": "quiz",
+      "num": 3,
+      "status": "OK",
+      "issues": [],
+      "warnings": [],
+      "info": {
+        "pageId": 18,
+        "modified": "2026-04-09T16:27:11Z",
+        "canvasLength": 5714,
+        "promotedState": 0,
+        "textLength": 2016,
+        "linkCount": 8,
+        "formsLinks": [],
+        "hasFormsEmbed": false,
+        "hasListForm": true,
+        "quizLinked": true,
+        "submissionType": "SharePoint List"
+      }
+    },
+    {
+      "title": "Quiz — Module 4: The Context Window",
+      "type": "quiz",
+      "num": 4,
+      "status": "OK",
+      "issues": [],
+      "warnings": [],
+      "info": {
+        "pageId": 19,
+        "modified": "2026-04-09T16:27:13Z",
+        "canvasLength": 5788,
+        "promotedState": 0,
+        "textLength": 2057,
+        "linkCount": 8,
+        "formsLinks": [],
+        "hasFormsEmbed": false,
+        "hasListForm": true,
+        "quizLinked": true,
+        "submissionType": "SharePoint List"
+      }
+    },
+    {
+      "title": "Quiz — Module 5: Why Specificity is Everything",
+      "type": "quiz",
+      "num": 5,
+      "status": "OK",
+      "issues": [],
+      "warnings": [],
+      "info": {
+        "pageId": 20,
+        "modified": "2026-04-09T16:27:16Z",
+        "canvasLength": 5920,
+        "promotedState": 0,
+        "textLength": 2175,
+        "linkCount": 8,
+        "formsLinks": [],
+        "hasFormsEmbed": false,
+        "hasListForm": true,
+        "quizLinked": true,
+        "submissionType": "SharePoint List"
+      }
+    },
+    {
+      "title": "Quiz — Module 6: Anatomy of a Good Prompt",
+      "type": "quiz",
+      "num": 6,
+      "status": "OK",
+      "issues": [],
+      "warnings": [],
+      "info": {
+        "pageId": 21,
+        "modified": "2026-04-09T16:27:19Z",
+        "canvasLength": 5644,
+        "promotedState": 0,
+        "textLength": 1877,
+        "linkCount": 8,
+        "formsLinks": [],
+        "hasFormsEmbed": false,
+        "hasListForm": true,
+        "quizLinked": true,
+        "submissionType": "SharePoint List"
+      }
+    },
+    {
+      "title": "Quiz — Module 7: Iteration, Examples, and Getting to Great",
+      "type": "quiz",
+      "num": 7,
+      "status": "OK",
+      "issues": [],
+      "warnings": [],
+      "info": {
+        "pageId": 22,
+        "modified": "2026-04-09T16:27:21Z",
+        "canvasLength": 5788,
+        "promotedState": 0,
+        "textLength": 2031,
+        "linkCount": 8,
+        "formsLinks": [],
+        "hasFormsEmbed": false,
+        "hasListForm": true,
+        "quizLinked": true,
+        "submissionType": "SharePoint List"
+      }
+    },
+    {
+      "title": "Quiz — Module 8: Tips, Tricks, and Power User Habits",
+      "type": "quiz",
+      "num": 8,
+      "status": "OK",
+      "issues": [],
+      "warnings": [],
+      "info": {
+        "pageId": 23,
+        "modified": "2026-04-09T16:27:24Z",
+        "canvasLength": 5876,
+        "promotedState": 0,
+        "textLength": 2155,
+        "linkCount": 8,
+        "formsLinks": [],
+        "hasFormsEmbed": false,
+        "hasListForm": true,
+        "quizLinked": true,
+        "submissionType": "SharePoint List"
+      }
+    },
+    {
+      "title": "Quiz — Module 9: The Operating Framework",
+      "type": "quiz",
+      "num": 9,
+      "status": "OK",
+      "issues": [],
+      "warnings": [],
+      "info": {
+        "pageId": 24,
+        "modified": "2026-04-09T16:27:27Z",
+        "canvasLength": 5656,
+        "promotedState": 0,
+        "textLength": 1941,
+        "linkCount": 8,
+        "formsLinks": [],
+        "hasFormsEmbed": false,
+        "hasListForm": true,
+        "quizLinked": true,
+        "submissionType": "SharePoint List"
+      }
+    },
+    {
+      "title": "Quiz — Module 10: Claude Desktop Projects",
+      "type": "quiz",
+      "num": 10,
+      "status": "OK",
+      "issues": [],
+      "warnings": [],
+      "info": {
+        "pageId": 25,
+        "modified": "2026-04-09T16:27:30Z",
+        "canvasLength": 6222,
+        "promotedState": 0,
+        "textLength": 2423,
+        "linkCount": 8,
+        "formsLinks": [],
+        "hasFormsEmbed": false,
+        "hasListForm": true,
+        "quizLinked": true,
+        "submissionType": "SharePoint List"
+      }
+    },
+    {
+      "title": "Quiz — Module 11: Documents, Images, and Multimodal Input",
+      "type": "quiz",
+      "num": 11,
+      "status": "OK",
+      "issues": [],
+      "warnings": [],
+      "info": {
+        "pageId": 26,
+        "modified": "2026-04-09T16:27:32Z",
+        "canvasLength": 5896,
+        "promotedState": 0,
+        "textLength": 2179,
+        "linkCount": 8,
+        "formsLinks": [],
+        "hasFormsEmbed": false,
+        "hasListForm": true,
+        "quizLinked": true,
+        "submissionType": "SharePoint List"
+      }
+    },
+    {
+      "title": "Quiz — Module 12: Claude for Your Team",
+      "type": "quiz",
+      "num": 12,
+      "status": "OK",
+      "issues": [],
+      "warnings": [],
+      "info": {
+        "pageId": 27,
+        "modified": "2026-04-09T16:27:35Z",
+        "canvasLength": 6235,
+        "promotedState": 0,
+        "textLength": 2511,
+        "linkCount": 8,
+        "formsLinks": [],
+        "hasFormsEmbed": false,
+        "hasListForm": true,
+        "quizLinked": true,
+        "submissionType": "SharePoint List"
+      }
+    },
+    {
+      "title": "Quiz — Module 13: Safety and Responsible Use",
+      "type": "quiz",
+      "num": 13,
+      "status": "OK",
+      "issues": [],
+      "warnings": [],
+      "info": {
+        "pageId": 28,
+        "modified": "2026-04-09T16:27:38Z",
+        "canvasLength": 6928,
+        "promotedState": 0,
+        "textLength": 3141,
+        "linkCount": 8,
+        "formsLinks": [],
+        "hasFormsEmbed": false,
+        "hasListForm": true,
+        "quizLinked": true,
+        "submissionType": "SharePoint List"
+      }
+    },
+    {
+      "title": "Quiz — Module 14: MCP, Agents, and RAG",
+      "type": "quiz",
+      "num": 14,
+      "status": "OK",
+      "issues": [],
+      "warnings": [],
+      "info": {
+        "pageId": 29,
+        "modified": "2026-04-09T16:27:41Z",
+        "canvasLength": 6125,
+        "promotedState": 0,
+        "textLength": 2383,
+        "linkCount": 8,
+        "formsLinks": [],
+        "hasFormsEmbed": false,
+        "hasListForm": true,
+        "quizLinked": true,
+        "submissionType": "SharePoint List"
+      }
+    },
+    {
+      "title": "Quiz — Module 15: GitHub — The Collaboration Layer",
+      "type": "quiz",
+      "num": 15,
+      "status": "OK",
+      "issues": [],
+      "warnings": [],
+      "info": {
+        "pageId": 30,
+        "modified": "2026-04-09T16:27:43Z",
+        "canvasLength": 5996,
+        "promotedState": 0,
+        "textLength": 2231,
+        "linkCount": 8,
+        "formsLinks": [],
+        "hasFormsEmbed": false,
+        "hasListForm": true,
+        "quizLinked": true,
+        "submissionType": "SharePoint List"
+      }
+    },
+    {
+      "title": "Quiz — Module 16: Databases and Data Storage",
+      "type": "quiz",
+      "num": 16,
+      "status": "OK",
+      "issues": [],
+      "warnings": [],
+      "info": {
+        "pageId": 31,
+        "modified": "2026-04-09T16:27:46Z",
+        "canvasLength": 3962,
+        "promotedState": 0,
+        "textLength": 1682,
+        "linkCount": 4,
+        "formsLinks": [],
+        "hasFormsEmbed": false,
+        "hasListForm": true,
+        "quizLinked": true,
+        "submissionType": "SharePoint List"
+      }
+    },
+    {
+      "title": "Final Exam",
+      "type": "exam",
+      "num": 0,
+      "status": "OK",
+      "issues": [],
+      "warnings": [],
+      "info": {
+        "pageId": 32,
+        "modified": "2026-04-09T16:36:47Z",
+        "canvasLength": 14951,
+        "promotedState": 0,
+        "textLength": 11983,
+        "linkCount": 2,
+        "formsLinks": [],
+        "hasFormsEmbed": false,
+        "hasListForm": true,
+        "quizLinked": true,
+        "submissionType": "SharePoint List"
+      }
+    },
+    {
+      "title": "Day 1 Quick Start",
+      "type": "support",
+      "num": 0,
+      "status": "OK",
+      "issues": [],
+      "warnings": [],
+      "info": {
+        "pageId": 40,
+        "modified": "2026-04-09T16:02:26Z",
+        "canvasLength": 7638,
+        "promotedState": 0,
+        "textLength": 5205,
+        "linkCount": 3
+      }
+    }
+  ],
+  "contentGaps": []
+}

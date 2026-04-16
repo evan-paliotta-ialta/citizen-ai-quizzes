@@ -1,0 +1,90 @@
+{
+  "quiz_1": {
+    "title": "Quiz — Module 1: What Claude Is (and Isn't)",
+    "url": "https://forms.office.com/Pages/ResponsePage.aspx?id=emtdGS5jG0uCJ082nQr_8DCB3gRaXcJBpjzeCN56RK1URVFIOE02S0VJSjZGT1NMUlpEMUQzUkJBQy4u",
+    "moduleId": 1
+  },
+  "quiz_4": {
+    "title": "Quiz — Module 4: The Context Window",
+    "url": "https://forms.office.com/Pages/ResponsePage.aspx?id=emtdGS5jG0uCJ082nQr_8DCB3gRaXcJBpjzeCN56RK1UQjNLN1VHNllPTTAwS1ZMU0RRQjBCUEJNSC4u",
+    "moduleId": 4
+  },
+  "quiz_7": {
+    "title": "Quiz — Module 7: Iteration, Examples, and Getting to Great",
+    "url": "https://forms.office.com/Pages/ResponsePage.aspx?id=emtdGS5jG0uCJ082nQr_8DCB3gRaXcJBpjzeCN56RK1UMkg4RkczRk5FUFpOV0hPTjc0SURYWFZLSi4u",
+    "moduleId": 7
+  },
+  "quiz_8": {
+    "title": "Quiz — Module 8: Tips, Tricks, and Power User Habits",
+    "url": "https://forms.office.com/Pages/ResponsePage.aspx?id=emtdGS5jG0uCJ082nQr_8DCB3gRaXcJBpjzeCN56RK1UOEdaRkZOVTRDOFBIV1FMUEhMWUFJR041TC4u",
+    "moduleId": 8
+  },
+  "quiz_9": {
+    "title": "Quiz — Module 9: The Operating Framework",
+    "url": "https://forms.office.com/Pages/ResponsePage.aspx?id=emtdGS5jG0uCJ082nQr_8DCB3gRaXcJBpjzeCN56RK1UQjAwVUhCN08wNTBMU0YxUjVMQzBXN1g2NC4u",
+    "moduleId": 9
+  },
+  "quiz_10": {
+    "title": "Quiz — Module 10: Claude Desktop Projects",
+    "url": "https://forms.office.com/Pages/ResponsePage.aspx?id=emtdGS5jG0uCJ082nQr_8DCB3gRaXcJBpjzeCN56RK1UOTlKUjlBME9TMUhCOTlPS1pYTVlUSFJDOC4u",
+    "moduleId": 10
+  },
+  "quiz_13": {
+    "title": "Quiz — Module 13: Safety and Responsible Use",
+    "url": "https://forms.office.com/Pages/ResponsePage.aspx?id=emtdGS5jG0uCJ082nQr_8DCB3gRaXcJBpjzeCN56RK1UQU00Vlc5RkxLRDVNVFJEM1BGWUUwUkdOUi4u",
+    "moduleId": 13
+  },
+  "quiz_14": {
+    "title": "Quiz — Module 14: MCP, Agents, and RAG",
+    "url": "https://forms.office.com/Pages/ResponsePage.aspx?id=emtdGS5jG0uCJ082nQr_8DCB3gRaXcJBpjzeCN56RK1UMFZFVEdCUlFWVDNDME5BTFRRRUhTM1IyNi4u",
+    "moduleId": 14
+  },
+  "quiz_2": {
+    "title": "Quiz — Module 2: How the Model Was Built",
+    "url": "https://forms.office.com/Pages/ResponsePage.aspx?id=emtdGS5jG0uCJ082nQr_8DCB3gRaXcJBpjzeCN56RK1URTZIWjNXRU1BWUdIQVdCNjUySzNXSFA5MS4u",
+    "moduleId": 2
+  },
+  "quiz_3": {
+    "title": "Quiz — Module 3: Tokens — The Currency of AI",
+    "url": "https://forms.office.com/Pages/ResponsePage.aspx?id=emtdGS5jG0uCJ082nQr_8DCB3gRaXcJBpjzeCN56RK1UQVpWWkFERUJaNElZUTFWVDlWVUFMRktQVy4u",
+    "moduleId": 3
+  },
+  "quiz_5": {
+    "title": "Quiz — Module 5: Why Specificity is Everything",
+    "url": "https://forms.office.com/Pages/ResponsePage.aspx?id=emtdGS5jG0uCJ082nQr_8DCB3gRaXcJBpjzeCN56RK1UQUk5Q1hBUEZGT1kzQVpIQldXVUozVlpNWi4u",
+    "moduleId": 5
+  },
+  "quiz_6": {
+    "title": "Quiz — Module 6: Anatomy of a Good Prompt",
+    "url": "https://forms.office.com/Pages/ResponsePage.aspx?id=emtdGS5jG0uCJ082nQr_8DCB3gRaXcJBpjzeCN56RK1UQzA1SkM5SE9VTUJZMEYzRjFRV0YxWDhETy4u",
+    "moduleId": 6
+  },
+  "quiz_11": {
+    "title": "Quiz — Module 11: Documents, Images, and Multimodal Input",
+    "url": "https://forms.office.com/Pages/ResponsePage.aspx?id=emtdGS5jG0uCJ082nQr_8DCB3gRaXcJBpjzeCN56RK1UQTJPTFNUNVdLODZJVFo5TEtZU0NUUThVMS4u",
+    "moduleId": 11
+  },
+  "quiz_12": {
+    "title": "Quiz — Module 12: Claude for Your Team",
+    "url": "https://forms.office.com/Pages/ResponsePage.aspx?id=emtdGS5jG0uCJ082nQr_8DCB3gRaXcJBpjzeCN56RK1URTdHTTE2TklCWjNZWEgyUFVOTlJHNVhNNC4u",
+    "moduleId": 12
+  },
+  "quiz_15": {
+    "title": "Quiz — Module 15: GitHub — The Collaboration Layer",
+    "url": "https://forms.office.com/Pages/ResponsePage.aspx?id=emtdGS5jG0uCJ082nQr_8DCB3gRaXcJBpjzeCN56RK1UQUtDQUVaMjdSNjQxVE9VM1dGNkw4T0k0WC4u",
+    "moduleId": 15
+  },
+  "quiz_16": {
+    "title": "Quiz — Module 16: Databases and Data Storage",
+    "url": "https://forms.office.com/Pages/ResponsePage.aspx?id=emtdGS5jG0uCJ082nQr_8DCB3gRaXcJBpjzeCN56RK1UN0JNMkpGVDM0OFVIUFZIVlFaWE4xTTVENy4u",
+    "moduleId": 16
+  },
+  "final_exam": {
+    "title": "Final Exam",
+    "url": "https://forms.office.com/Pages/ResponsePage.aspx?id=emtdGS5jG0uCJ082nQr_8DCB3gRaXcJBpjzeCN56RK1UMzU3Nk9BNVNUNFYySjhKMVlBQ1ZEVEdCVC4u"
+  },
+  "capstone": {
+    "title": "Capstone Submission",
+    "url": "https://forms.office.com/Pages/ResponsePage.aspx?id=emtdGS5jG0uCJ082nQr_8DCB3gRaXcJBpjzeCN56RK1UQ0I0R0xPUFBJV0U1OVVNNVdKUFpaUTNIUC4u"
+  }
+}

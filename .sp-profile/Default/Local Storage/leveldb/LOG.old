@@ -1,0 +1,15 @@
+2026/04/09-12:13:50.094 af2417 Reusing MANIFEST /Users/evanpaliotta/Desktop/iAltA Test/Citizen AI Engineer/.sp-profile/Default/Local Storage/leveldb/MANIFEST-000001
+2026/04/09-12:13:50.096 af2417 Recovering log #61
+2026/04/09-12:13:50.097 af2417 Reusing old log /Users/evanpaliotta/Desktop/iAltA Test/Citizen AI Engineer/.sp-profile/Default/Local Storage/leveldb/000061.log 
+2026/04/09-12:14:22.817 af241a Level-0 table #64: started
+2026/04/09-12:14:22.818 af241a Level-0 table #64: 20162 bytes OK
+2026/04/09-12:14:22.820 af241a Delete type=0 #61
+2026/04/09-12:14:22.821 af241a Compacting 4@0 + 1@1 files
+2026/04/09-12:14:22.826 af241a Generated table #65@0: 100 keys, 94961 bytes
+2026/04/09-12:14:22.830 af241a Compacted 4@0 + 1@1 files => 94961 bytes
+2026/04/09-12:14:22.839 af241a compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/04/09-12:14:22.840 af241a Delete type=2 #60
+2026/04/09-12:14:22.843 af241a Delete type=2 #64
+2026/04/09-12:14:22.843 af241a Delete type=2 #57
+2026/04/09-12:14:22.843 af241a Delete type=2 #54
+2026/04/09-12:14:22.843 af241a Delete type=2 #52
