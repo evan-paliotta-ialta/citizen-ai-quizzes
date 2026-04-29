@@ -1,0 +1,159 @@
+[
+  {
+    "module": 1,
+    "title": "What Claude Is (and Isn't)",
+    "maxPts": 4,
+    "perfectRequired": false,
+    "passThreshold": null,
+    "attempts": 2,
+    "latestDate": "2026-04-15",
+    "responderName": "Evan Paliotta",
+    "practicals": null
+  },
+  {
+    "module": 2,
+    "title": "How the Model Was Built",
+    "maxPts": 4,
+    "attempts": 0,
+    "latestScore": null,
+    "latestDate": null,
+    "practicals": null
+  },
+  {
+    "module": 3,
+    "title": "Tokens",
+    "maxPts": 4,
+    "attempts": 0,
+    "latestScore": null,
+    "latestDate": null,
+    "practicals": null
+  },
+  {
+    "module": 4,
+    "title": "Context Window",
+    "maxPts": 4,
+    "attempts": 0,
+    "latestScore": null,
+    "latestDate": null,
+    "practicals": null
+  },
+  {
+    "module": 5,
+    "title": "Specificity",
+    "maxPts": 4,
+    "attempts": 0,
+    "latestScore": null,
+    "latestDate": null,
+    "practicals": null
+  },
+  {
+    "module": 6,
+    "title": "Anatomy of a Good Prompt",
+    "maxPts": 4,
+    "attempts": 0,
+    "latestScore": null,
+    "latestDate": null,
+    "practicals": null
+  },
+  {
+    "module": 7,
+    "title": "Iteration & Examples",
+    "maxPts": 4,
+    "attempts": 0,
+    "latestScore": null,
+    "latestDate": null,
+    "practicals": null
+  },
+  {
+    "module": 8,
+    "title": "Tips & Tricks",
+    "maxPts": 4,
+    "attempts": 0,
+    "latestScore": null,
+    "latestDate": null,
+    "practicals": null
+  },
+  {
+    "module": 9,
+    "title": "Operating Framework",
+    "maxPts": 4,
+    "attempts": 0,
+    "latestScore": null,
+    "latestDate": null,
+    "practicals": null
+  },
+  {
+    "module": 10,
+    "title": "Claude Desktop Projects",
+    "maxPts": 4,
+    "attempts": 0,
+    "latestScore": null,
+    "latestDate": null,
+    "practicals": null
+  },
+  {
+    "module": 11,
+    "title": "Documents & Multimodal",
+    "maxPts": 4,
+    "attempts": 0,
+    "latestScore": null,
+    "latestDate": null,
+    "practicals": null
+  },
+  {
+    "module": 12,
+    "title": "Claude for Your Team",
+    "maxPts": 4,
+    "attempts": 0,
+    "latestScore": null,
+    "latestDate": null,
+    "practicals": null
+  },
+  {
+    "module": 13,
+    "title": "Safety",
+    "maxPts": 4,
+    "perfectRequired": true,
+    "attempts": 0,
+    "latestScore": null,
+    "latestDate": null,
+    "practicals": null
+  },
+  {
+    "module": 14,
+    "title": "MCP, Agents & RAG",
+    "maxPts": 4,
+    "attempts": 0,
+    "latestScore": null,
+    "latestDate": null,
+    "practicals": null
+  },
+  {
+    "module": 15,
+    "title": "GitHub",
+    "maxPts": 4,
+    "attempts": 0,
+    "latestScore": null,
+    "latestDate": null,
+    "practicals": null
+  },
+  {
+    "module": 16,
+    "title": "Databases",
+    "maxPts": 4,
+    "attempts": 0,
+    "latestScore": null,
+    "latestDate": null,
+    "practicals": null
+  },
+  {
+    "module": "F",
+    "title": "Final Exam",
+    "maxPts": 25,
+    "passThreshold": 20,
+    "attempts": 0,
+    "latestScore": null,
+    "latestDate": null,
+    "practicals": null
+  }
+]

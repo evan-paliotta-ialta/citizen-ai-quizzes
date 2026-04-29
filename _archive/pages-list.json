@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "title": "Home",
+    "url": "SitePages/Home.aspx"
+  },
+  {
+    "id": 2,
+    "title": "Module 2: How the Model Was Built",
+    "url": "SitePages/Module-2--How-the-Model-Was-Built.aspx"
+  },
+  {
+    "id": 3,
+    "title": "Module 3: Tokens — The Currency of AI",
+    "url": "SitePages/Module-3--Tokens-—-The-Currency-of-AI.aspx"
+  },
+  {
+    "id": 4,
+    "title": "Module 4: The Context Window",
+    "url": "SitePages/Module-4--The-Context-Window.aspx"
+  },
+  {
+    "id": 5,
+    "title": "Module 5: Why Specificity is Everything",
+    "url": "SitePages/Module-5--Why-Specificity-is-Everything.aspx"
+  },
+  {
+    "id": 6,
+    "title": "Module 6: Anatomy of a Good Prompt",
+    "url": "SitePages/Module-6--Anatomy-of-a-Good-Prompt.aspx"
+  },
+  {
+    "id": 7,
+    "title": "Module 7: Iteration, Examples, and Getting to Great",
+    "url": "SitePages/Module-7--Iteration,-Examples,-and-Getting-to-Great.aspx"
+  },
+  {
+    "id": 8,
+    "title": "Module 8: Tips, Tricks, and Power User Habits",
+    "url": "SitePages/Module-8--Tips,-Tricks,-and-Power-User-Habits.aspx"
+  },
+  {
+    "id": 9,
+    "title": "Module 9: The Operating Framework",
+    "url": "SitePages/Module-9--The-Operating-Framework.aspx"
+  },
+  {
+    "id": 10,
+    "title": "Module 10: Claude Desktop Projects",
+    "url": "SitePages/Module-10--Claude-Desktop-Projects.aspx"
+  },
+  {
+    "id": 11,
+    "title": "Module 11: Documents, Images, and Multimodal Input",
+    "url": "SitePages/Module-11--Documents,-Images,-and-Multimodal-Input.aspx"
+  },
+  {
+    "id": 12,
+    "title": "Module 12: Claude for Your Team",
+    "url": "SitePages/Module-12--Claude-for-Your-Team.aspx"
+  },
+  {
+    "id": 13,
+    "title": "Module 13: Safety and Responsible Use",
+    "url": "SitePages/Module-13--Safety-and-Responsible-Use.aspx"
+  },
+  {
+    "id": 14,
+    "title": "Module 14: MCP, Agents, and RAG",
+    "url": "SitePages/Module-14--MCP,-Agents,-and-RAG.aspx"
+  },
+  {
+    "id": 15,
+    "title": "Module 15: GitHub — The Collaboration Layer",
+    "url": "SitePages/Module-15--GitHub-—-The-Collaboration-Layer.aspx"
+  },
+  {
+    "id": 16,
+    "title": "Module 16: Databases and Data Storage",
+    "url": "SitePages/Module-16--Databases-and-Data-Storage.aspx"
+  },
+  {
+    "id": 17,
+    "title": "Quiz — Module 2: How the Model Was Built",
+    "url": "SitePages/Quiz-—-Module-2--How-the-Model-Was-Built.aspx"
+  },
+  {
+    "id": 18,
+    "title": "Quiz — Module 3: Tokens — The Currency of AI",
+    "url": "SitePages/Quiz-—-Module-3--Tokens-—-The-Currency-of-AI.aspx"
+  },
+  {
+    "id": 19,
+    "title": "Quiz — Module 4: The Context Window",
+    "url": "SitePages/Quiz-—-Module-4--The-Context-Window.aspx"
+  },
+  {
+    "id": 20,
+    "title": "Quiz — Module 5: Why Specificity is Everything",
+    "url": "SitePages/Quiz-—-Module-5--Why-Specificity-is-Everything.aspx"
+  },
+  {
+    "id": 21,
+    "title": "Quiz — Module 6: Anatomy of a Good Prompt",
+    "url": "SitePages/Quiz-—-Module-6--Anatomy-of-a-Good-Prompt.aspx"
+  },
+  {
+    "id": 22,
+    "title": "Quiz — Module 7: Iteration, Examples, and Getting to Great",
+    "url": "SitePages/Quiz-—-Module-7--Iteration,-Examples,-and-Getting-to-Great.aspx"
+  },
+  {
+    "id": 23,
+    "title": "Quiz — Module 8: Tips, Tricks, and Power User Habits",
+    "url": "SitePages/Quiz-—-Module-8--Tips,-Tricks,-and-Power-User-Habits.aspx"
+  },
+  {
+    "id": 24,
+    "title": "Quiz — Module 9: The Operating Framework",
+    "url": "SitePages/Quiz-—-Module-9--The-Operating-Framework.aspx"
+  },
+  {
+    "id": 25,
+    "title": "Quiz — Module 10: Claude Desktop Projects",
+    "url": "SitePages/Quiz-—-Module-10--Claude-Desktop-Projects.aspx"
+  },
+  {
+    "id": 26,
+    "title": "Quiz — Module 11: Documents, Images, and Multimodal Input",
+    "url": "SitePages/Quiz-—-Module-11--Documents,-Images,-and-Multimodal-Input.aspx"
+  },
+  {
+    "id": 27,
+    "title": "Quiz — Module 12: Claude for Your Team",
+    "url": "SitePages/Quiz-—-Module-12--Claude-for-Your-Team.aspx"
+  },
+  {
+    "id": 28,
+    "title": "Quiz — Module 13: Safety and Responsible Use",
+    "url": "SitePages/Quiz-—-Module-13--Safety-and-Responsible-Use.aspx"
+  },
+  {
+    "id": 29,
+    "title": "Quiz — Module 14: MCP, Agents, and RAG",
+    "url": "SitePages/Quiz-—-Module-14--MCP,-Agents,-and-RAG.aspx"
+  },
+  {
+    "id": 30,
+    "title": "Quiz — Module 15: GitHub — The Collaboration Layer",
+    "url": "SitePages/Quiz-—-Module-15--GitHub-—-The-Collaboration-Layer.aspx"
+  },
+  {
+    "id": 31,
+    "title": "Quiz — Module 16: Databases and Data Storage",
+    "url": "SitePages/Quiz-—-Module-16--Databases-and-Data-Storage.aspx"
+  },
+  {
+    "id": 32,
+    "title": "Final Exam",
+    "url": "SitePages/Final-Exam.aspx"
+  },
+  {
+    "id": 33,
+    "title": "Module 1: What Claude Is (and Isn't)",
+    "url": "SitePages/Module-1--What-Claude-Is-(and-Isn't).aspx"
+  },
+  {
+    "id": 34,
+    "title": "Quiz — Module 1: What Claude Is (and Isn't)",
+    "url": "SitePages/Quiz-—-Module-1--What-Claude-Is-(and-Isn't).aspx"
+  },
+  {
+    "id": 36,
+    "title": "Administrator Reference",
+    "url": "SitePages/Administrator-Reference.aspx"
+  },
+  {
+    "id": 39,
+    "title": "Module 0: Why We're Doing This",
+    "url": "SitePages/Module-0--Why-We're-Doing-This.aspx"
+  },
+  {
+    "id": 40,
+    "title": "Day 1 Quick Start",
+    "url": "SitePages/Day-1-Quick-Start.aspx"
+  },
+  {
+    "id": 41,
+    "title": "Capstone Guide",
+    "url": "SitePages/Capstone-Guide.aspx"
+  },
+  {
+    "id": 42,
+    "title": "Prompt Library",
+    "url": "SitePages/Prompt-Library.aspx"
+  },
+  {
+    "id": 43,
+    "title": "Day 1 Quick Start — You've Earned Your License",
+    "url": "SitePages/Day-1-Quick-Start-—-You've-Earned-Your-License.aspx"
+  }
+]
