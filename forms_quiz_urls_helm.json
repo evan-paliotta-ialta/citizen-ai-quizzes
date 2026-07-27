@@ -1,0 +1,114 @@
+[
+  {
+    "moduleNum": 1,
+    "title": "Module 1: What Claude Is (and Isn't)",
+    "formId": "BbL4chLj6UmUs98ziH7rxeYJblFG9RZPlKsTM_d41T1UMFpCVEwzWkE3NjVXWU41RkJFT0lHTzRTVC4u",
+    "shareUrl": "https://forms.office.com/Pages/ResponsePage.aspx?id=BbL4chLj6UmUs98ziH7rxeYJblFG9RZPlKsTM_d41T1UMFpCVEwzWkE3NjVXWU41RkJFT0lHTzRTVC4u",
+    "questionCount": 4
+  },
+  {
+    "moduleNum": 2,
+    "title": "Module 2: How the Model Was Built",
+    "formId": "BbL4chLj6UmUs98ziH7rxeYJblFG9RZPlKsTM_d41T1URDJZV01JVjlQMDJKMjYzMlZVM0xCSFlDNS4u",
+    "shareUrl": "https://forms.office.com/Pages/ResponsePage.aspx?id=BbL4chLj6UmUs98ziH7rxeYJblFG9RZPlKsTM_d41T1URDJZV01JVjlQMDJKMjYzMlZVM0xCSFlDNS4u",
+    "questionCount": 4
+  },
+  {
+    "moduleNum": 3,
+    "title": "Module 3: Tokens — The Currency of AI",
+    "formId": "BbL4chLj6UmUs98ziH7rxeYJblFG9RZPlKsTM_d41T1UNk1TTVRFQjVVTldYRU1YVjVXWTVWQ1ZCMy4u",
+    "shareUrl": "https://forms.office.com/Pages/ResponsePage.aspx?id=BbL4chLj6UmUs98ziH7rxeYJblFG9RZPlKsTM_d41T1UNk1TTVRFQjVVTldYRU1YVjVXWTVWQ1ZCMy4u",
+    "questionCount": 4
+  },
+  {
+    "moduleNum": 4,
+    "title": "Module 4: The Context Window",
+    "formId": "BbL4chLj6UmUs98ziH7rxeYJblFG9RZPlKsTM_d41T1UQ0IyVzRCRVVYSjVSNU41RDhGMzFLTThNTi4u",
+    "shareUrl": "https://forms.office.com/Pages/ResponsePage.aspx?id=BbL4chLj6UmUs98ziH7rxeYJblFG9RZPlKsTM_d41T1UQ0IyVzRCRVVYSjVSNU41RDhGMzFLTThNTi4u",
+    "questionCount": 4
+  },
+  {
+    "moduleNum": 5,
+    "title": "Module 5: Why Specificity is Everything",
+    "formId": "BbL4chLj6UmUs98ziH7rxeYJblFG9RZPlKsTM_d41T1UOUdTOEw0TThQTDNRVkdWRU9RNUtEU1NEWi4u",
+    "shareUrl": "https://forms.office.com/Pages/ResponsePage.aspx?id=BbL4chLj6UmUs98ziH7rxeYJblFG9RZPlKsTM_d41T1UOUdTOEw0TThQTDNRVkdWRU9RNUtEU1NEWi4u",
+    "questionCount": 4
+  },
+  {
+    "moduleNum": 6,
+    "title": "Module 6: Anatomy of a Good Prompt",
+    "formId": "BbL4chLj6UmUs98ziH7rxeYJblFG9RZPlKsTM_d41T1UOTNaMlQ2VllGUEZHNzM0VTRNUDlCQzQyQi4u",
+    "shareUrl": "https://forms.office.com/Pages/ResponsePage.aspx?id=BbL4chLj6UmUs98ziH7rxeYJblFG9RZPlKsTM_d41T1UOTNaMlQ2VllGUEZHNzM0VTRNUDlCQzQyQi4u",
+    "questionCount": 4
+  },
+  {
+    "moduleNum": 7,
+    "title": "Module 7: Iteration, Examples, and Getting to Great",
+    "formId": "BbL4chLj6UmUs98ziH7rxeYJblFG9RZPlKsTM_d41T1UN1BZMEFMOElGR0VEWDZGSk1PQzVOUUdWNC4u",
+    "shareUrl": "https://forms.office.com/Pages/ResponsePage.aspx?id=BbL4chLj6UmUs98ziH7rxeYJblFG9RZPlKsTM_d41T1UN1BZMEFMOElGR0VEWDZGSk1PQzVOUUdWNC4u",
+    "questionCount": 4
+  },
+  {
+    "moduleNum": 8,
+    "title": "Module 8: Tips, Tricks, and Power User Habits",
+    "formId": "BbL4chLj6UmUs98ziH7rxeYJblFG9RZPlKsTM_d41T1UNTZNWlZSNUVFUk9VUUE1OFhHWUxNWlZXMi4u",
+    "shareUrl": "https://forms.office.com/Pages/ResponsePage.aspx?id=BbL4chLj6UmUs98ziH7rxeYJblFG9RZPlKsTM_d41T1UNTZNWlZSNUVFUk9VUUE1OFhHWUxNWlZXMi4u",
+    "questionCount": 4
+  },
+  {
+    "moduleNum": 9,
+    "title": "Module 9: The Operating Framework",
+    "formId": "BbL4chLj6UmUs98ziH7rxeYJblFG9RZPlKsTM_d41T1UQUFTSVNPWlJMVDhPSktPMzhMRkxIWEdSMi4u",
+    "shareUrl": "https://forms.office.com/Pages/ResponsePage.aspx?id=BbL4chLj6UmUs98ziH7rxeYJblFG9RZPlKsTM_d41T1UQUFTSVNPWlJMVDhPSktPMzhMRkxIWEdSMi4u",
+    "questionCount": 4
+  },
+  {
+    "moduleNum": 10,
+    "title": "Module 10: Claude Desktop Projects",
+    "formId": "BbL4chLj6UmUs98ziH7rxeYJblFG9RZPlKsTM_d41T1UNDRDSlczN05DVzRVSFcwRDFZR1ZJMlJaUC4u",
+    "shareUrl": "https://forms.office.com/Pages/ResponsePage.aspx?id=BbL4chLj6UmUs98ziH7rxeYJblFG9RZPlKsTM_d41T1UNDRDSlczN05DVzRVSFcwRDFZR1ZJMlJaUC4u",
+    "questionCount": 4
+  },
+  {
+    "moduleNum": 11,
+    "title": "Module 11: Documents, Images, and Multimodal Input",
+    "formId": "BbL4chLj6UmUs98ziH7rxeYJblFG9RZPlKsTM_d41T1UMzVaVkRHVFNXTjBLR0kwVUtWWlVBU0lUVC4u",
+    "shareUrl": "https://forms.office.com/Pages/ResponsePage.aspx?id=BbL4chLj6UmUs98ziH7rxeYJblFG9RZPlKsTM_d41T1UMzVaVkRHVFNXTjBLR0kwVUtWWlVBU0lUVC4u",
+    "questionCount": 4
+  },
+  {
+    "moduleNum": 12,
+    "title": "Module 12: Claude for Your Team",
+    "formId": "BbL4chLj6UmUs98ziH7rxeYJblFG9RZPlKsTM_d41T1UMlFMWElIOVE2NFlORzROMFJFT01RQVRIMS4u",
+    "shareUrl": "https://forms.office.com/Pages/ResponsePage.aspx?id=BbL4chLj6UmUs98ziH7rxeYJblFG9RZPlKsTM_d41T1UMlFMWElIOVE2NFlORzROMFJFT01RQVRIMS4u",
+    "questionCount": 4
+  },
+  {
+    "moduleNum": 13,
+    "title": "Module 13: Safety and Responsible Use",
+    "formId": "BbL4chLj6UmUs98ziH7rxeYJblFG9RZPlKsTM_d41T1UNUVEUzVFSU9CQ01XRURVNUtTSTAwMlNEOS4u",
+    "shareUrl": "https://forms.office.com/Pages/ResponsePage.aspx?id=BbL4chLj6UmUs98ziH7rxeYJblFG9RZPlKsTM_d41T1UNUVEUzVFSU9CQ01XRURVNUtTSTAwMlNEOS4u",
+    "questionCount": 7
+  },
+  {
+    "moduleNum": 14,
+    "title": "Module 14: MCP, Agents, and RAG",
+    "formId": "BbL4chLj6UmUs98ziH7rxeYJblFG9RZPlKsTM_d41T1UQzQ1Q00xOEhNUzc4RlI5Wk0yRDFMUldCSy4u",
+    "shareUrl": "https://forms.office.com/Pages/ResponsePage.aspx?id=BbL4chLj6UmUs98ziH7rxeYJblFG9RZPlKsTM_d41T1UQzQ1Q00xOEhNUzc4RlI5Wk0yRDFMUldCSy4u",
+    "questionCount": 4
+  },
+  {
+    "moduleNum": 15,
+    "title": "Module 15: GitHub — The Collaboration Layer",
+    "formId": "BbL4chLj6UmUs98ziH7rxeYJblFG9RZPlKsTM_d41T1UMzFHTEI1TFZPODhWWVA1M01JUU40U1dSUC4u",
+    "shareUrl": "https://forms.office.com/Pages/ResponsePage.aspx?id=BbL4chLj6UmUs98ziH7rxeYJblFG9RZPlKsTM_d41T1UMzFHTEI1TFZPODhWWVA1M01JUU40U1dSUC4u",
+    "questionCount": 4
+  },
+  {
+    "moduleNum": 16,
+    "title": "Module 16: Databases and Data Storage",
+    "formId": "BbL4chLj6UmUs98ziH7rxeYJblFG9RZPlKsTM_d41T1UNUNKQkczMVFPV0dDTEoxOEMySjg2NlZIWS4u",
+    "shareUrl": "https://forms.office.com/Pages/ResponsePage.aspx?id=BbL4chLj6UmUs98ziH7rxeYJblFG9RZPlKsTM_d41T1UNUNKQkczMVFPV0dDTEoxOEMySjg2NlZIWS4u",
+    "questionCount": 4
+  }
+]

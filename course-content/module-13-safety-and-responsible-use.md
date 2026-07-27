@@ -11,6 +11,8 @@
 By the end of this module you will be able to:
 - Classify any task into the correct data zone using the driving analogy
 - Distinguish between absolute hard stops and Zone 3 data that requires clearance
+- Define PII and MNPI, and recognize them in your own work
+- Explain what zero data retention (ZDR) means and why PII/MNPI must be escalated rather than processed in your standard Claude session
 - Apply the verification habit to any consequential Claude output
 - Recognize and counter sycophantic responses
 - Understand prompt injection and why it matters as Claude takes more autonomous actions
@@ -56,7 +58,7 @@ Examples:
 
 *Internal company information. Handled carefully, it won't get us sued — but mishandled, it can damage the business.*
 
-You are in Zone 2 when you are working with internal iAltA information that is not confidential and does not include client data or PII. Think internal documents, internal processes, pipeline data with no client contact details, internal strategy discussions.
+You are in Zone 2 when you are working with internal Helm information that is not confidential and does not include client data or PII. Think internal documents, internal processes, pipeline data with no client contact details, internal strategy discussions.
 
 Examples:
 - Using Claude to analyze trends in internal sales pipeline data (deal names and ARR amounts, no client contact info)
@@ -114,12 +116,18 @@ This is the drunk driving equivalent in the zone model. No license, no route, no
 
 Everything else that feels sensitive — client data, PII, confidential business information — belongs in Zone 3. Zone 3 does not mean prohibited. It means you need explicit clearance before proceeding and the right controls in place.
 
-*PII and client data:*
+*PII (Personally Identifiable Information) and client data:*
+
+**PII means any information that can identify a specific individual** — names, contact details, government ID numbers, financial account information, and similar data tied to a real person.
+
 - Client names paired with financial data, contact information, or account details
 - Employee personal data: salaries, performance records, personal circumstances
 - Any information about an identifiable individual you hold in a professional capacity
 
-*Confidential business information:*
+*Confidential business information, including MNPI:*
+
+**MNPI (Material Non-Public Information) means information about a company that is not yet public and would influence an investment decision if known** — unreleased earnings, an in-progress M&A deal, a fundraise that hasn't been announced, or deal terms not yet disclosed. Given Helm's business, MNPI shows up constantly — treat it with the same seriousness as PII, not as generic "business info."
+
 - Unreleased financial results or projections
 - M&A, fundraising, or strategic plans not yet public
 - Client-specific strategies or data covered by an NDA
@@ -127,6 +135,16 @@ Everything else that feels sensitive — client data, PII, confidential business
 For any of the above: you need explicit confirmation from your manager, and ideally from IT or legal depending on the sensitivity. When in doubt, ask before pasting — not after.
 
 **Prefer MCP tools over manual pasting for Zone 3 work.** If you are accessing client records via an approved MCP connection to the CRM, the data flows through a controlled, audited channel. Manually copying and pasting the same data into a conversation is riskier because it bypasses that structure. Where a controlled tool exists, use it.
+
+---
+
+**PII and MNPI require Helm's ZDR-cleared channel — not your standard Claude session**
+
+Your everyday Claude Desktop or Enterprise account does not carry a zero data retention (ZDR) guarantee for every workflow. **Zero data retention** means a vendor contractually and technically does not store, log, or train on the data you send it — it exists only transiently to process your request, then it's gone. Without ZDR, a standard AI session may retain conversation data for abuse monitoring or model improvement, which creates real exposure for regulated data: a breach, a subpoena, or simply an employee with account access could expose it.
+
+Helm maintains a specific ZDR-cleared channel for tasks that touch PII or MNPI, kept current as vendor offerings and infrastructure evolve. **The rule that matters, regardless of which specific solution is behind it:** if a task touches PII or MNPI, do not process it through your standard Claude session. Escalate to your program administrator, who will route it through Helm's current ZDR-cleared solution.
+
+This is not a workaround to figure out yourself — like the MCP/manager-review requirement above, it is a hard control, not a suggestion.
 
 ---
 
@@ -217,11 +235,12 @@ Knowing when to step back is as important as knowing how to use Claude well.
 ## Key Takeaways
 
 1. The data determines the zone — Zone 1 is public data, Zone 2 is internal, Zone 3 is confidential/client/PII. When in doubt, go up a zone.
-2. Credentials are a hard stop with no exceptions. PII and confidential data are Zone 3 — permitted with explicit clearance and the right controls, not freely
-3. Verify every specific, consequential fact Claude produces — confidence of prose is not accuracy
-4. Counter sycophancy actively — explicitly ask for honest critique and pushback
-5. Prompt injection is a real risk as Claude gets more autonomous — understand it before you build connected workflows
-6. Some decisions require humans — know the list and do not try to automate them
+2. Credentials are a hard stop with no exceptions. PII and confidential data (including MNPI) are Zone 3 — permitted with explicit clearance and the right controls, not freely
+3. PII and MNPI specifically require Helm's ZDR-cleared channel, not your standard Claude session — escalate to your program administrator, don't route it yourself
+4. Verify every specific, consequential fact Claude produces — confidence of prose is not accuracy
+5. Counter sycophancy actively — explicitly ask for honest critique and pushback
+6. Prompt injection is a real risk as Claude gets more autonomous — understand it before you build connected workflows
+7. Some decisions require humans — know the list and do not try to automate them
 
 ---
 

@@ -100,7 +100,7 @@ Upload your brand style guide to your Project, then:
 
 **Job Description**
 
-*"Write a job description for a [Title] role at iAltA. Level: [senior/mid/junior]. Key responsibilities: [list 4–6]. Required skills: [list]. Nice to have: [list]. Company tone: professional, direct, and unpretentious — we do not use buzzwords. Format with sections: About the Role, What You Will Do, What We Are Looking For, What We Offer. Under 450 words total."*
+*"Write a job description for a [Title] role at Helm. Level: [senior/mid/junior]. Key responsibilities: [list 4–6]. Required skills: [list]. Nice to have: [list]. Company tone: professional, direct, and unpretentious — we do not use buzzwords. Format with sections: About the Role, What You Will Do, What We Are Looking For, What We Offer. Under 450 words total."*
 
 **Interview Questions**
 

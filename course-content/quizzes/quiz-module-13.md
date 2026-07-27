@@ -1,7 +1,7 @@
 # Quiz — Module 13: Safety, Data Hygiene, and Responsible Use
 
 **Format**: Multiple choice + scenario
-**Passing score**: 5/5 (this module is non-negotiable)
+**Passing score**: 7/7 (this module is non-negotiable)
 **Attempts allowed**: Unlimited
 
 ---
@@ -70,7 +70,7 @@ D) Automating a workflow that sends client communications without any human revi
 You want to use Claude to research a prospect before a sales call. You pull up their most recent 10-K filing from the SEC website and paste several sections into Claude to get a summary of their annual priorities and growth initiatives. What zone are you in?
 
 A) Zone 3 — you are analyzing a company's financial document, which is always confidential
-B) Zone 1 — the 10-K is a publicly available filing; no iAltA or client data has entered the conversation
+B) Zone 1 — the 10-K is a publicly available filing; no Helm or client data has entered the conversation
 C) Zone 2 — financial documents are internal information even when filed publicly
 D) Zone 3 — any research involving financial data triggers the highest zone
 

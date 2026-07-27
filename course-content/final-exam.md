@@ -324,7 +324,7 @@ D) Add more context to the agent's instructions and continue running it automati
 
 **Instructions**: Read the following scenario and answer the three questions below in the response field.
 
-**Scenario**: You join a new team at iAltA. Your manager tells you that they want you to use Claude to help with a weekly competitive intelligence report — compiling news about your top five competitors and summarizing the key developments. The report gets distributed to the leadership team every Monday morning.
+**Scenario**: You join a new team at Helm. Your manager tells you that they want you to use Claude to help with a weekly competitive intelligence report — compiling news about your top five competitors and summarizing the key developments. The report gets distributed to the leadership team every Monday morning.
 
 1. What Zone is this task (1, 2, or 3)? Justify your answer.
 2. Write the full prompt you would use, including all five elements (role, task, context, constraints, output format).

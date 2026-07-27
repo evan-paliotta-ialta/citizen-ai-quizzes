@@ -104,7 +104,7 @@ There are two types of instructions you can give Claude:
 
 **System prompts** are standing instructions that run silently before every message in a conversation. They set permanent rules, role, and context.
 
-In Claude Desktop **Projects** (covered in Module 12), your Project instructions are the system prompt. Every conversation within that Project starts with those instructions already loaded — Claude already knows your role, your company, your tone preferences, and any standing rules you have set.
+In Claude Desktop **Projects** (covered in Module 10), your Project instructions are the system prompt. Every conversation within that Project starts with those instructions already loaded — Claude already knows your role, your company, your tone preferences, and any standing rules you have set.
 
 Think of it as the employee handbook given to the new hire on their first day. User prompts are the specific assignments. System prompts are the rules of the office.
 

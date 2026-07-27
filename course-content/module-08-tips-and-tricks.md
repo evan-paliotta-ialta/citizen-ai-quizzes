@@ -16,6 +16,7 @@ By the end of this module you will be able to:
 - Use meta-prompting to build and improve prompts without starting from scratch
 - Apply self-verification, steelmanning, and outcome-first prompting to improve output quality
 - Flag uncertain claims so you know exactly what to verify
+- Know when to reach for Extended Thinking on Opus for your hardest reasoning tasks
 
 ---
 
@@ -200,6 +201,18 @@ A related variation for research tasks:
 
 ---
 
+## Extended Thinking — Getting Claude's Deepest Reasoning
+
+Module 1 taught you to tell Claude to "take your time" before answering. On Opus, there is a formal version of this: **Extended Thinking**. Before producing its answer, Claude works through the problem step by step, weighing alternatives and checking its own logic — and you can actually see that reasoning, in a collapsible "thinking" section that appears before the final response.
+
+**When to use it:** complex strategy calls, multi-factor analysis, or any task where the first answer tends to feel shallow or too quick. Not for routine tasks — it is slower and uses more resources than a standard response, so save it for decisions that matter.
+
+**How to activate it:** switch to Opus in the model selector, then add something like: *"Before you answer, take your time and think through this carefully from multiple angles. Consider the strongest counterarguments before giving me your recommendation."*
+
+**What it is not:** a magic upgrade that fixes a vague prompt. Extended Thinking helps with problems that have genuine logical depth. It will not rescue a request that is missing the context, constraints, or specificity covered in Modules 5 and 6 — those fundamentals still do most of the work.
+
+---
+
 ## Work Backwards From the Reader
 
 Most prompts describe what you want Claude to produce. This technique starts from what you want the reader to think, feel, or do — and asks Claude to work backwards from there.
@@ -244,6 +257,7 @@ Over time this becomes a team asset. When a new team member joins, the prompt li
 5. Steelman and pre-mortem your plans before you commit to them
 6. Work backwards from what you need the reader to think, feel, or do — not from what you want to produce
 7. Save prompts that work — they are team assets, not throwaway inputs
+8. Extended Thinking on Opus gives you visible, deeper reasoning for your hardest problems — not a fix for a vague prompt
 
 ---
 

@@ -33,7 +33,7 @@ Every element of an active conversation consumes context window space:
 - Your messages
 - Claude's responses
 - Documents and files you upload
-- Project instructions (the system prompt — covered in Module 12)
+- Project instructions (the system prompt — covered in Module 10)
 - Results from tools like web search
 
 The context window has a size limit measured in tokens. When you approach that limit, Claude does not crash or stop — but it begins to "forget" things from earlier in the conversation, giving more weight to recent content and less to older material.
@@ -47,7 +47,7 @@ The context window has a size limit measured in tokens. When you approach that l
 When you open a new conversation, Claude has no idea who you are, what company you work for, what project you are working on, or how you like to communicate. You start from zero every time.
 
 This is why experienced users either:
-1. Use Projects (Module 12) to pre-load standing context, or
+1. Use Projects (Module 10) to pre-load standing context, or
 2. Start conversations with a brief that gives Claude the context it needs
 
 Neither approach is complicated. Both make an enormous difference.

@@ -86,7 +86,7 @@ Treat every Claude output as a first draft from a smart, capable, but occasional
 
 Claude knows nothing about your company, your industry context, your clients, your history, or your preferences — unless you tell it, in every conversation.
 
-Every conversation starts completely blank. There is no memory of previous sessions. Claude does not know you work in alternative investments, that your clients are institutional allocators, or that your company is called iAltA — unless that information is in the current conversation.
+Every conversation starts completely blank. There is no memory of previous sessions. Claude does not know you work in alternative investments, that your clients are institutional allocators, or that your company is called Helm — unless that information is in the current conversation.
 
 This is why context matters so much, and why we spend significant time in later modules on how to give Claude the right context efficiently.
 

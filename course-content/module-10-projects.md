@@ -13,6 +13,11 @@ By the end of this module you will be able to:
 - Write effective Project instructions (system prompt) for your role
 - Organize conversations within Projects
 - Set up your own Project before completing this course
+- Recognize when a shared Project, session memory, a custom Skill, or a subagent applies to a task
+
+---
+
+**In Claude today:** this entire module teaches one underlying concept — giving your AI standing context so it doesn't start blank every conversation — through Claude's current implementation of it: Projects, Shared Projects, CLAUDE.md, Skills, subagents, Workflows, and `/loop`. The concept of persistent context is universal to any AI tool you might use. These specific names and mechanics are Claude's current version of it, and are the ones covered here because Claude is Helm's tool today.
 
 ---
 
@@ -58,7 +63,7 @@ A well-written system prompt means every conversation starts with Claude already
 [Your name, your role, your team, and what you are responsible for.]
 
 ## The Company
-[What iAltA does, who the customers are, key context a smart colleague would need to work effectively here.]
+[What Helm does, who the customers are, key context a smart colleague would need to work effectively here.]
 
 ## My Audience
 [Who you typically communicate with — internal colleagues, clients, prospects. Their profile, what they care about, their level of sophistication.]
@@ -128,6 +133,23 @@ The first version of your Project instructions will not be perfect. Treat them a
 
 ---
 
+## Shared Projects — Team Context, Not Just Individual Context
+
+Everything above describes a Project you build for yourself. Claude also supports **Shared Projects** — the same container, but visible to your whole team.
+
+Every person on the team opens their conversations inside the shared Project and starts with the same org context pre-loaded. Instead of five people on the CS team each writing their own version of "here's how we talk to clients about renewals," one shared Project holds the renewal playbook and product brief for everyone.
+
+**Use case examples:**
+- A CS team Project with the renewal playbook and product brief
+- A Sales team Project with the ICP, objection library, and tone guide
+- A Marketing team Project with brand voice and campaign context
+
+**How to set one up:** create a Project → Project settings → Share with people or groups → team members see it in their Projects list.
+
+**What goes in a shared Project vs. your personal one:** standing context that applies to everyone on the team goes in the shared Project. Personal preferences and your own individual standing rules stay in your personal Project — do not mix the two, or the shared Project accumulates instructions that only make sense for one person.
+
+**Governance matters here.** Someone owns the shared Project's instructions. Decide who that is and how often it gets reviewed — a shared Project with stale or contradictory instructions is worse than no shared Project at all, because everyone assumes it is current.
+
 ---
 
 ## Claude Code Equivalent: CLAUDE.md Files
@@ -152,10 +174,10 @@ This is the Claude Code equivalent of Project instructions. The same principle a
 ## Project: Q2 Campaign Assets
 
 ## Role
-Marketing Manager, iAltA. Responsible for B2B content across email, LinkedIn, and client-facing materials.
+Marketing Manager, Helm. Responsible for B2B content across email, LinkedIn, and client-facing materials.
 
 ## Company Context
-iAltA is a financial technology firm. Clients are institutional investors and family offices. Tone is professional, direct, and jargon-free.
+Helm is a financial technology firm. Clients are institutional investors and family offices. Tone is professional, direct, and jargon-free.
 
 ## Standing Rules
 - Always use active voice
@@ -179,6 +201,22 @@ There is no attachment button in Claude Code. Instead, reference files directly 
 
 Claude Code can read any file on your filesystem that you have permission to access. The `./` prefix means "in the current folder."
 
+### Beyond CLAUDE.md — What Claude Code Can Do
+
+CLAUDE.md solves the blank-slate problem for standing context. Claude Code has several other capabilities worth knowing about — you do not need to master these to complete this course, but you should recognize them so you know what is available when a task calls for it.
+
+**Session memory:** Claude Code automatically remembers facts about you and your projects across sessions, stored in a memory folder on your machine — you do not have to re-explain "I use Python, not JavaScript" or "this codebase is for Helm's internal tools" every time. You can also tell it explicitly: *"Remember that X"* and it saves the fact for future sessions. This is a genuine difference from Claude Desktop and claude.ai, where conversations do not carry memory forward except through what you put in a Project.
+
+**Skills (custom slash commands):** You can build your own reusable slash commands — a saved set of instructions for a task you do repeatedly, invoked by typing `/[command-name]`. This course itself runs on one: the quiz-completion check your program administrator runs is a slash command, not a one-off script. If you find yourself giving Claude Code the same multi-step instructions more than twice, that is a signal to turn it into a Skill.
+
+**Subagents:** For a large or multi-part task, Claude Code can spawn specialized helper agents that work in parallel — one searching the codebase, one reviewing a specific file, one drafting a report section — and bring their results back together. You do not need to set this up manually for routine work; it becomes relevant once a task is big enough that doing it serially would take noticeably longer.
+
+**Workflows:** For genuinely large jobs — auditing many files, migrating something across a codebase, running the same review across a big list — Claude Code can run a structured, multi-stage script that fans work out to many subagents at once rather than one at a time. This is well beyond what most citizen developer tasks need, but if you ever have a job that feels like "the same thing, 50 times," this is the tool that exists for it.
+
+**`/loop`:** Runs a prompt or command repeatedly on a schedule — for example, checking something every few minutes, or re-running a report on an interval — without you having to manually re-trigger it each time.
+
+None of these replace the fundamentals from Modules 5–8. They are tools for scale and repetition, not substitutes for a well-written prompt.
+
 ---
 
 ## Key Takeaways
@@ -188,6 +226,8 @@ Claude Code can read any file on your filesystem that you have permission to acc
 3. Write instructions covering: who you are, your company, your audience, your style, your standing rules
 4. Upload standing reference files (Desktop) or reference them by file path (Claude Code)
 5. Name conversations descriptively — your history is a resource, not a log
+6. Shared Projects give a whole team the same standing context — decide who owns and maintains it
+7. Claude Code adds session memory, custom Skills, subagents, Workflows, and `/loop` for scale and repetition — not fixes for a weak prompt
 
 ---
 
