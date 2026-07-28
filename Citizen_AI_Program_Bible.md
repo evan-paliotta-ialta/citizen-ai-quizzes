@@ -125,14 +125,16 @@ Progress can be checked one participant at a time (`/citizen-ai-check`) or for t
 
 **Structure:**
 
-1. **Pre-1:1 self-assessment** (citizen fills out beforehand): what did you build this quarter, what's blocking you, what do you want to learn next
+1. **Self-assessment, asked live** (no pre-submitted form): what did you build this quarter, what's blocking you, what do you want to learn next
 2. **Review Highlander/GitHub activity**: what did they actually ship, tied back to their OKR
 3. **Capability Maturity check-in**: has their work moved from Level 2 (Experimenting) toward Level 3 (Structured) — repeatable playbooks, shared prompts, consistent GitHub hygiene?
 4. **Set one concrete goal** for the next quarter
 
+**Built:** `1on1_agenda_template.md` (repo root) — a live scratch page with the four prompts above, used during the call. `citizen_1on1_tracker.csv` (repo root) — the system of record, one row per citizen per quarter (Name, Email, Quarter, Date, What They Built, Blocker, Capability Level, Goal Set, Prior Goal Status, Notes). Fill in the agenda template live, then transcribe it into one tracker row after the call.
+
 **Future automation opportunity:** a one-pager generated per citizen from their Highlander activity ahead of each 1:1, so the quarter's work is summarized before the conversation starts rather than reconstructed from memory. Not built yet — flagged here as a natural next step once the cohort is large enough (50-70 people) that manual prep doesn't scale.
 
-**Not recorded** — these are private coaching conversations. Action items from each 1:1 should be logged somewhere lightweight (a simple tracker, not a full recording) so follow-through can be checked at the next 1:1.
+**Not recorded** — these are private coaching conversations. The tracker captures the outcome (goal set, status, one-line notes), not a transcript.
 
 ---
 
@@ -144,7 +146,7 @@ Progress can be checked one participant at a time (`/citizen-ai-check`) or for t
 - Office Hours Archive — recordings by date, lightly tagged by topic
 - Monthly Session Library — recordings, with the citizen-presented sessions given equal visibility to program-lead-led ones
 - Feature Spotlight Index — a running list of which advanced capability was covered when, cross-linked to the relevant course module (e.g., the Extended Thinking spotlight links back to Module 8)
-- 1:1 Prep Resources — the self-assessment template, for admin use
+- 1:1 Prep Resources — link to `1on1_agenda_template.md` and `citizen_1on1_tracker.csv` (Section 5), for admin use
 
 **Not yet built** — this section documents the plan; implementation is a separate piece of work once prioritized.
 
