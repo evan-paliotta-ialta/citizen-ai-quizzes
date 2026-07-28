@@ -129,6 +129,8 @@ Or start a session with a specific model using the `--model` flag. Like Desktop,
 
 **A fourth model exists in the current lineup: Fable.** It is not covered in depth in this course — if you encounter it as an option, treat it the same way you would treat any new model tier: check what it is best suited for before defaulting to it.
 
+**A word on cost:** bigger models cost more per request, often substantially more. Reaching for Opus or Fable on a routine task you could hand to Haiku or Sonnet is not just unnecessary — it adds up quickly across a team, since usage is billed at the organization level. Module 8 covers this habit in more depth.
+
 **Model versions update regularly.** The specific version numbers above (Opus 4.8, Sonnet 5, Haiku 4.5) will not be the newest ones forever — check claude.ai/models or ask Claude "what model are you and what's current" for the up-to-date lineup. What stays consistent is the tier structure, whatever it happens to be named at the time — and that structure, along with the judgment of when to reach for a bigger or smaller model, is exactly what carries over if Helm's AI tooling ever changes.
 
 ---

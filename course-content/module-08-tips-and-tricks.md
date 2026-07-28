@@ -17,6 +17,7 @@ By the end of this module you will be able to:
 - Apply self-verification, steelmanning, and outcome-first prompting to improve output quality
 - Flag uncertain claims so you know exactly what to verify
 - Know when to reach for Extended Thinking on Opus for your hardest reasoning tasks
+- Match the model to the task so you're not paying frontier-model cost for routine work
 
 ---
 
@@ -213,6 +214,23 @@ Module 1 taught you to tell Claude to "take your time" before answering. On Opus
 
 ---
 
+## Cost-Conscious Model Selection
+
+Every task has a right-sized model, and reaching for the most powerful one by default is one of the most common — and most avoidable — sources of wasted AI spend on a team.
+
+Module 2 introduced the model tiers: Haiku, Sonnet, and Opus (plus Fable). The tradeoff between them is not just speed or depth — it's cost. Opus and Fable cost meaningfully more per request than Sonnet, and dramatically more than Haiku. Running a quick summary, a routine reformat, or a simple draft through the most expensive model produces the same result you'd get from Haiku or Sonnet, at several times the cost, for no real gain in quality.
+
+**Before you switch models, ask yourself:** does this task actually need deeper reasoning or higher judgment, or am I reaching for the biggest model out of habit?
+
+**A working rule of thumb:**
+- Routine, high-volume, low-judgment work (formatting, short summaries, quick drafts) → Haiku
+- Most day-to-day work: analysis, writing, research, standard-complexity tasks → Sonnet, the right default for most things
+- Genuinely hard, high-stakes, multi-step reasoning, or Extended Thinking → Opus, used deliberately, not by default
+
+**Why this matters beyond your own workflow:** AI usage is billed at the organization level. A habit of defaulting to the most expensive model for tasks Sonnet or Haiku would have handled just as well adds up quickly across a whole team, and it's one of the easiest inefficiencies to avoid. Match the model to the task, not the task to whichever model happens to be selected.
+
+---
+
 ## Work Backwards From the Reader
 
 Most prompts describe what you want Claude to produce. This technique starts from what you want the reader to think, feel, or do — and asks Claude to work backwards from there.
@@ -258,6 +276,7 @@ Over time this becomes a team asset. When a new team member joins, the prompt li
 6. Work backwards from what you need the reader to think, feel, or do — not from what you want to produce
 7. Save prompts that work — they are team assets, not throwaway inputs
 8. Extended Thinking on Opus gives you visible, deeper reasoning for your hardest problems — not a fix for a vague prompt
+9. Match the model to the task — Haiku for routine work, Sonnet by default, Opus deliberately for genuinely hard problems. Defaulting to the most expensive model out of habit is one of the easiest and most common sources of wasted team spend
 
 ---
 
