@@ -1,4 +1,4 @@
-# Final Exam — Citizen AI Developer Program
+# Final Exam — Citizen AI Program
 
 **Passing score**: 80% (20/25 questions)
 **Format**: Multiple choice + two practical submissions
@@ -347,4 +347,4 @@ Your license will be issued within one business day of the program administrator
 
 ---
 
-*Congratulations on completing the Citizen AI Developer Program coursework. Submit this exam to receive your Claude Desktop license and proceed to the capstone exercise.*
+*Congratulations on completing the Citizen AI Program coursework. Submit this exam to receive your Claude Desktop license and proceed to the capstone exercise.*

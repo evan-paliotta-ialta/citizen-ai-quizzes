@@ -1,6 +1,6 @@
-**Citizen AI Developer Program**
+**Citizen AI Program**
 
-*The single source of truth for Helm's Citizen AI Developer Program — onboarding, certification, and continuing education*
+*The single source of truth for Helm's Citizen AI Program — onboarding, certification, and continuing education*
 
 Program Lead: Evan Paliotta · Version 1.0 · Last verified: 2026-07-21
 
@@ -21,7 +21,7 @@ Program Lead: Evan Paliotta · Version 1.0 · Last verified: 2026-07-21
 
 ## 0. How to Use This Document
 
-This document is the operating reference for the Citizen AI Developer Program — everything after initial certification. It complements, not replaces, the course itself (hosted on SharePoint at `helmmarkets.sharepoint.com/sites/citizenai`), which covers the 16-module curriculum, Final Exam, and Capstone in full.
+This document is the operating reference for the Citizen AI Program — everything after initial certification. It complements, not replaces, the course itself (hosted on SharePoint at `helmmarkets.sharepoint.com/sites/citizenai`), which covers the 16-module curriculum, Final Exam, and Capstone in full.
 
 Use this document to answer: what happens after someone earns their license, how the ongoing cadence works, where recordings and reference material live, and what tooling supports program administration.
 
@@ -169,7 +169,7 @@ Both `/citizen-ai-check` and `/citizen-ai-check-bulk` require an active session 
 
 **Licensing:**
 - Issuance: Microsoft Entra admin portal → assign the Claude Enterprise app to the student's company email. Live within about an hour; no invitation email is sent.
-- Revocation: remove the Entra app assignment and remove from the GitHub citizen team. See the Citizen AI Engineer Policies & Procedures document for the full offboarding checklist.
+- Revocation: remove the Entra app assignment and remove from the GitHub citizen team. See the Citizen AI Policies & Procedures document for the full offboarding checklist.
 
 **Safety and data handling** (full detail in Module 13, required for all citizens with a perfect score):
 - Zone 1 (public data only), Zone 2 (internal, non-confidential), Zone 3 (confidential, client data, PII, or any live connected system) — the data determines the zone, not the task. When in doubt, go up a zone.
