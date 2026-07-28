@@ -1,1 +1,2 @@
 Name,Email,Quarter,1:1 Date,What They Built,Blocker,Capability Level (2/3/4),Goal Set,Prior Goal Status,Notes
+Test Citizen (DELETE ME),test@helmmarkets.com,Q3-2026,2026-07-28,Test entry to validate the /citizen-1on1-log pipeline.,N/A — test row.,3,N/A — test row.,N/A,This row will be deleted immediately after validation.
