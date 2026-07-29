@@ -130,7 +130,7 @@ Progress can be checked one participant at a time (`/citizen-ai-check`) or for t
 3. **Capability Maturity check-in**: has their work moved from Level 2 (Experimenting) toward Level 3 (Structured) — repeatable playbooks, shared prompts, consistent GitHub hygiene?
 4. **Set one concrete goal** for the next quarter
 
-**Built:** `1on1_agenda_template.md` (repo root) — a live scratch page with the four prompts above, used during the call. `citizen_1on1_tracker.csv` (repo root) — the system of record, one row per citizen per quarter (Name, Email, Quarter, Date, What They Built, Blocker, Capability Level, Goal Set, Prior Goal Status, Notes). Fill in the agenda template live, then transcribe it into one tracker row after the call.
+**Built:** `1on1_agenda_template.md` (repo root) — a live scratch page with the four prompts above, used during the call. `/citizen-1on1-prep [name]` opens it pre-filled with the citizen's prior goal. `/citizen-1on1-log [name]` takes your notes or a transcript afterward and logs it — one item in the restricted **"1on1 Tracker" SharePoint list** (Name, Email, Quarter, Date, What They Built, Blocker, Capability Level, Goal Set, Prior Goal Status, Notes) plus a one-page docx filed under `Program Admin/1on1 Notes/<Name>/` in SharePoint. Both the list and the library have broken permission inheritance, granted only to the Owners group — citizens can never see any of this.
 
 **Future automation opportunity:** a one-pager generated per citizen from their Highlander activity ahead of each 1:1, so the quarter's work is summarized before the conversation starts rather than reconstructed from memory. Not built yet — flagged here as a natural next step once the cohort is large enough (50-70 people) that manual prep doesn't scale.
 
@@ -146,7 +146,7 @@ Progress can be checked one participant at a time (`/citizen-ai-check`) or for t
 - Office Hours Archive — recordings by date, lightly tagged by topic
 - Monthly Session Library — recordings, with the citizen-presented sessions given equal visibility to program-lead-led ones
 - Feature Spotlight Index — a running list of which advanced capability was covered when, cross-linked to the relevant course module (e.g., the Extended Thinking spotlight links back to Module 8)
-- 1:1 Prep Resources — link to `1on1_agenda_template.md` and `citizen_1on1_tracker.csv` (Section 5), for admin use
+- 1:1 Prep Resources — restricted admin-only SharePoint page pointing to `/citizen-1on1-prep` and `/citizen-1on1-log` (Section 5); not linked from this citizen-facing hub
 
 **Not yet built** — this section documents the plan; implementation is a separate piece of work once prioritized.
 

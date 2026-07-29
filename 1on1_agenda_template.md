@@ -1,11 +1,11 @@
 # Quarterly 1:1 Agenda
 
-Use this as a live scratch page during the conversation — fill it in as you go, then transcribe the result into one row of `citizen_1on1_tracker.csv` afterward. Don't keep a separate saved copy of this filled-in page; the CSV is the system of record. These are private coaching conversations, not recorded.
+Use this as a live scratch page during the conversation — fill it in as you go, then run `/citizen-1on1-log` afterward. Don't keep a separate saved copy of this filled-in page; the "1on1 Tracker" SharePoint list is the system of record. These are private coaching conversations, not recorded.
 
 **Citizen:**
 **Quarter:**
 **Date:**
-**Prior goal (from last quarter's row in the tracker):**
+**Prior goal (from their last tracker item):**
 
 ---
 
@@ -38,10 +38,6 @@ Concrete, single goal — not a list. Write the exact wording you'll both rememb
 
 ## After the call
 
-Add one row to `citizen_1on1_tracker.csv`:
+Run `/citizen-1on1-log [citizen name]` and give it your notes (or a transcript). It adds an item to the restricted "1on1 Tracker" SharePoint list — Name, Email, Quarter, 1:1 Date, What They Built, Blocker, Capability Level, Goal Set, Prior Goal Status, Notes — and files a one-page summary doc under `Program Admin/1on1 Notes/<Name>/` in SharePoint.
 
-```
-Name, Email, Quarter, 1:1 Date, What They Built, Blocker, Capability Level, Goal Set, Prior Goal Status, Notes
-```
-
-`Prior Goal Status` = Done / Partial / Not Started, judged against the `Goal Set` value from that citizen's previous quarter's row.
+`Prior Goal Status` = Done / Partial / Not Started, judged against the `Goal Set` value from that citizen's previous quarter's tracker item.
