@@ -1,0 +1,25 @@
+[
+  { "name": "Nik Mitev", "team": "Sales-Marketing" },
+  { "name": "Sam Ganeles", "team": "Sales-Marketing" },
+  { "name": "Max Bauer", "team": "Sales-Marketing" },
+  { "name": "Dan Blasi", "team": "Sales-Marketing" },
+  { "name": "Andrew Turner", "team": "Sales-Marketing" },
+  { "name": "Sarah Sherman", "team": "Sales-Marketing" },
+
+  { "name": "Brian Marcus", "team": "CS" },
+  { "name": "Ben Cable", "team": "CS" },
+  { "name": "Auria Fuentes", "team": "CS" },
+  { "name": "Sam Williams", "team": "CS" },
+  { "name": "Troy Delagardelle", "team": "CS" },
+  { "name": "Barty Gray", "team": "CS" },
+  { "name": "Rich King", "team": "CS" },
+  { "name": "Lisa O'Brien", "team": "CS" },
+
+  { "name": "Alessandra Ricagno", "team": "Structuring" },
+  { "name": "Nicole Baas", "team": "Structuring" },
+  { "name": "Diego Vuilliomenet", "team": "Structuring" },
+  { "name": "Shoaib Shaikh", "team": "Structuring" },
+
+  { "name": "Louise Downey", "team": "Operations-Other" },
+  { "name": "Harry Tustin", "team": "Operations-Other" }
+]
