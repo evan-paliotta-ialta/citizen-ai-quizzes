@@ -10,12 +10,11 @@ Program Lead: Evan Paliotta · Version 1.0 · Last verified: 2026-07-21
 1. Program Overview and Philosophy
 2. Onboarding and Certification Path
 3. Continuing Education — Weekly Office Hours
-4. Continuing Education — Monthly Mandatory Sessions
-5. Continuing Education — Quarterly 1:1s
-6. Content Library and Recordings
-7. Tools and Infrastructure
-8. Program Governance
-9. Change Log
+4. Continuing Education — Quarterly 1:1s
+5. Content Library and Recordings
+6. Tools and Infrastructure
+7. Program Governance
+8. Change Log
 
 ---
 
@@ -40,7 +39,7 @@ The program is built on four pillars, introduced to every citizen in Module 0 of
 
 **The mental model (Jensen Huang, NVIDIA):** *"AI will not take your job. But someone who uses AI will."* Every job is Purpose (judgment, relationships, decisions) plus Tasks (writing, summarizing, researching, formatting). AI offloads tasks; citizens use the time back to do more purpose-driven work.
 
-**What onboarding builds; what continuing education sustains.** The 16-module course and certification (Section 2) address Knowledge and Ability. Everything in this document — office hours, monthly sessions, quarterly 1:1s — addresses Reinforcement. Without it, ADKAR predicts exactly what happens: initial enthusiasm fades, old habits return, no accountability structure remains.
+**What onboarding builds; what continuing education sustains.** The 16-module course and certification (Section 2) address Knowledge and Ability. Everything in this document — weekly office hours and quarterly 1:1s — addresses Reinforcement. Without it, ADKAR predicts exactly what happens: initial enthusiasm fades, old habits return, no accountability structure remains.
 
 ---
 
@@ -53,7 +52,7 @@ Full detail lives in the course itself. Summary for reference:
 | Module 0 | Program philosophy and operating model (no quiz) |
 | Modules 1-16 | Foundation through Advanced tracks — see table below |
 | Final Exam | 25 multiple-choice questions (auto-graded), passing threshold 20/25 (80%), plus two human-graded Practical Submissions |
-| Day 1 Quick Start | Sign the Citizen Developer Agreement, sign in via SSO (Microsoft Entra provisions the Claude Enterprise account automatically — no invite email, no manual request), set up first Project, create first GitHub repo |
+| Day 1 Quick Start | Sign in via SSO (Microsoft Entra provisions the Claude Enterprise account automatically — no invite email, no manual request), set up first Project, create first GitHub repo |
 | Capstone | Three deliverables (Project instructions, GitHub repo with METADATA.yaml, one real work output) submitted via the program Teams channel within five business days of licensing; license is provisional until acknowledged |
 
 **The 16 modules:**
@@ -77,7 +76,7 @@ Full detail lives in the course itself. Summary for reference:
 | 15 | GitHub — The Collaboration Layer | Citizen Developer |
 | 16 | Databases and Data Storage | Citizen Developer |
 
-Progress can be checked one participant at a time (`/citizen-ai-check`) or for the whole cohort at once (`/citizen-ai-check-bulk`) — see Section 7.
+Progress can be checked one participant at a time (`/citizen-ai-check`) or for the whole cohort at once (`/citizen-ai-check-bulk`) — see Section 6.
 
 ---
 
@@ -97,29 +96,11 @@ Progress can be checked one participant at a time (`/citizen-ai-check`) or for t
 **Mechanics:**
 - Citizens post blockers ahead of time in the program Teams channel where practical, so the session can triage efficiently
 - Attendance is optional — this is support, not certification
-- Recorded (raw recording is sufficient, no production polish needed) and posted to the Content Library (Section 6)
+- Recorded (raw recording is sufficient, no production polish needed) and posted to the Content Library (Section 5)
 
 ---
 
-## 4. Continuing Education — Monthly Mandatory Sessions
-
-**Purpose:** structured reinforcement. This is the ADKAR "Reinforcement" pillar in practice — mandatory because the program's value depends on the change actually sticking, not just training happening once.
-
-**Format:** ownership rotates so it doesn't become a lecture series —
-
-- One month: program-lead-led deep dive on an advanced topic
-- One month: citizen presents a real project (peer learning — the best prompter on the team makes everyone better)
-- One month: cross-team panel (e.g., Sales and CS comparing how they each use Claude)
-- Periodically: a Highlander metrics review, showing the cohort its own aggregate impact — this tends to land better than any external motivational content, because it's their own data
-- As needed: safety/zone-framework refreshers, especially after any incident or policy update
-
-**Mechanics:**
-- Mandatory attendance, tracked
-- Recorded and posted to the Content Library — this is the primary way someone who missed a mandatory session catches up, so recording quality (audio especially) matters more here than for office hours
-
----
-
-## 5. Continuing Education — Quarterly 1:1s
+## 4. Continuing Education — Quarterly 1:1s
 
 **Purpose:** individual coaching, not a performance review. The goal is unblocking and goal-setting, tied to the citizen's own OKR-linked work.
 
@@ -130,7 +111,7 @@ Progress can be checked one participant at a time (`/citizen-ai-check`) or for t
 3. **Capability Maturity check-in**: has their work moved from Level 2 (Experimenting) toward Level 3 (Structured) — repeatable playbooks, shared prompts, consistent GitHub hygiene?
 4. **Set one concrete goal** for the next quarter
 
-**Built:** `1on1_agenda_template.md` (repo root) — a live scratch page with the four prompts above, used during the call. `/citizen-1on1-prep [name]` opens it pre-filled with the citizen's prior goal. `/citizen-1on1-log [name]` takes your notes or a transcript afterward and logs it — one item in the restricted **"1on1 Tracker" SharePoint list** (Name, Email, Quarter, Date, What They Built, Blocker, Capability Level, Goal Set, Prior Goal Status, Notes) plus a one-page docx filed under `Program Admin/1on1 Notes/<Name>/` in SharePoint. Both the list and the library have broken permission inheritance, granted only to the Owners group — citizens can never see any of this.
+**Built:** `1on1_agenda_template.md` (repo root) — a live scratch page with the four prompts above, used during the call. `/citizen-1on1-prep [name]` opens it pre-filled with the citizen's prior goal. `/citizen-1on1-log [name]` takes your notes or a transcript afterward and logs it — one item in the restricted **"1on1 Tracker" SharePoint list** (Name, Email, Quarter, Date, What They Built, Blocker, Capability Level, Goal Set, Prior Goal Status, Notes) plus a one-page docx filed under `Program Admin/1on1 Notes/<Team>/<Name>/` in SharePoint (team looked up from `citizen_roster.json`). Both the list and the library have broken permission inheritance, granted only to the Owners group — citizens can never see any of this.
 
 **Future automation opportunity:** a one-pager generated per citizen from their Highlander activity ahead of each 1:1, so the quarter's work is summarized before the conversation starts rather than reconstructed from memory. Not built yet — flagged here as a natural next step once the cohort is large enough (50-70 people) that manual prep doesn't scale.
 
@@ -138,21 +119,19 @@ Progress can be checked one participant at a time (`/citizen-ai-check`) or for t
 
 ---
 
-## 6. Content Library and Recordings
+## 5. Content Library and Recordings
 
 **Recommendation: do not split the existing course site in half.** The current Home page and module navigation work well and should not be restructured. Instead, add one new entry point — a **Continuing Education Hub** page, linked from Home via a single new card, with everything below living under it as its own set of subpages. This achieves full separation between "the course" and "ongoing programming" without touching the certification flow at all.
 
-**Proposed structure under the hub:**
+**Structure under the hub:**
 - Office Hours Archive — recordings by date, lightly tagged by topic
-- Monthly Session Library — recordings, with the citizen-presented sessions given equal visibility to program-lead-led ones
-- Feature Spotlight Index — a running list of which advanced capability was covered when, cross-linked to the relevant course module (e.g., the Extended Thinking spotlight links back to Module 8)
-- 1:1 Prep Resources — restricted admin-only SharePoint page pointing to `/citizen-1on1-prep` and `/citizen-1on1-log` (Section 5); not linked from this citizen-facing hub
+- 1:1 Prep Resources — restricted admin-only SharePoint page pointing to `/citizen-1on1-prep` and `/citizen-1on1-log` (Section 4); not linked from this citizen-facing hub
 
-**Not yet built** — this section documents the plan; implementation is a separate piece of work once prioritized.
+**Built** — live on the Helm SharePoint site, linked from Home.
 
 ---
 
-## 7. Tools and Infrastructure
+## 6. Tools and Infrastructure
 
 | Tool | What It Does |
 |---|---|
@@ -167,7 +146,7 @@ Both `/citizen-ai-check` and `/citizen-ai-check-bulk` require an active session 
 
 ---
 
-## 8. Program Governance
+## 7. Program Governance
 
 **Licensing:**
 - Issuance: Microsoft Entra admin portal → assign the Claude Enterprise app to the student's company email. Live within about an hour; no invitation email is sent.
@@ -182,8 +161,9 @@ Both `/citizen-ai-check` and `/citizen-ai-check-bulk` require an active session 
 
 ---
 
-## 9. Change Log
+## 8. Change Log
 
 | Date | Change |
 |---|---|
 | 2026-07-21 | Initial version — program overview, continuing education cadence, tools, and governance |
+| 2026-07-30 | Removed monthly mandatory sessions and the Feature Spotlight Index — continuing education cadence is now weekly office hours + quarterly 1:1s only. Fixed a stale Day 1 reference to the removed agreement-signing step. |
