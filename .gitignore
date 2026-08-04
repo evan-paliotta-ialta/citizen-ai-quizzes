@@ -18,3 +18,14 @@ playwright/node_modules/
 
 # macOS
 .DS_Store
+
+# Word temp lock files
+~$*
+
+# Compliance API pulls — chat titles/content are Confidential-class data, never committed
+compliance-api/shared/cache/
+compliance-api/**/*.raw.json
+compliance-api/**/out/
+
+# Cron run logs
+compliance-api/convergence/cron_logs/
